@@ -1,0 +1,51 @@
+[
+  {
+    "name": "India",
+    "capital": "New Delhi",
+    "population": "1.42 billion",
+    "interesting_fact": "India is the world's largest democracy."
+  },
+  {
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": "332 million",
+    "interesting_fact": "The U.S. has the world's largest economy."
+  },
+  {
+    "name": "China",
+    "capital": "Beijing",
+    "population": "1.41 billion",
+    "interesting_fact": "China is home to the Great Wall, the longest man-made structure in the world."
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "interesting_fact": "Brazil is the only country in South America where Portuguese is the official language."
+  },
+  {
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "interesting_fact": "Australia is both a country and a continent, known for the Great Barrier Reef."
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "interesting_fact": "Japan has the world's third-largest economy."
+  },
+  {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": "83 million",
+    "interesting_fact": "Germany is known for its engineering and is the largest economy in Europe."
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "39 million",
+    "interesting_fact": "Canada has the longest coastline of any country in the world."
+  }
+  
+]

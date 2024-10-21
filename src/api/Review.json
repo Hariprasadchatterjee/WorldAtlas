@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "country": "United States",
+      "question": "What do you think about the current state of technology in your country?",
+      "answer": "The United States remains one of the global leaders in technology innovation. With companies like Apple, Google, and Microsoft headquartered here, the tech landscape is continuously evolving. However, there is a growing concern over issues such as privacy, data security, and the monopolization of the tech industry by a few giants. While we see constant advancements in AI, cloud computing, and machine learning, the digital divide still exists in some parts of the country, particularly in rural areas. "
+    },
+    {
+      "id": 2,
+      "country": "India",
+      "question": "How do you see the impact of digital transformation in India?",
+      "answer": "India has witnessed a massive digital transformation over the past decade, especially with the widespread adoption of smartphones and affordable internet services. The government's Digital India initiative has been a key driver of this change, aiming to provide digital infrastructure as a core utility to every citizen. The rise of digital payment systems, like UPI, has revolutionized the way people conduct financial transactions, even in rural areas. However, the journey is not without its challenges. "
+    },
+    {
+      "id": 3,
+      "country": "Germany",
+      "question": "What are your thoughts on the role of renewable energy in Germany?",
+      "answer": "Germany has been a global pioneer when it comes to renewable energy, especially with its 'Energiewende' or energy transition policy. The country has made significant strides in reducing its dependency on fossil fuels and increasing its share of renewable energy sources like wind, solar, and biomass. In fact, renewable energy now accounts for a substantial portion of Germany’s electricity supply. "
+    },
+    {
+      "id": 4,
+      "country": "Japan",
+      "question": "How do you view the role of robotics and automation in Japan's economy?",
+      "answer": "Japan has long been at the forefront of robotics and automation, and this technology continues to play a critical role in its economy. From industrial robots that are central to the country's manufacturing industry to service robots in healthcare, hospitality, and daily life, Japan's commitment to automation is evident. With an aging population and shrinking workforce, robotics offers a way to maintain productivity and economic stability. ."
+    },
+    {
+      "id": 5,
+      "country": "Brazil",
+      "question": "What is your opinion on the impact of deforestation on Brazil's environment?",
+      "answer": "Deforestation in Brazil, particularly in the Amazon rainforest, has been a subject of global concern due to its far-reaching environmental impacts. The Amazon is often referred to as the 'lungs of the Earth' because of its role in absorbing carbon dioxide and producing oxygen, so deforestation threatens not only Brazil but the entire planet. "
+    }
+  ]
+
